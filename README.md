@@ -8,5 +8,5 @@
 
 | 박해지 | 오유림 | 김원진 |
 | --- | --- | --- |
-| [image.jpg](https://postimg.cc/WqwL04H6) |  |  |
+| [![image.jpg](https://i.postimg.cc/NFWsq98V/image.jpg)](https://postimg.cc/WqwL04H6)] |  |  |
 | 숙명여자대학교 컴퓨터과학과 4학년 | 중앙대학교 기계공학과 4학년 | 중앙대학교 기계공학과 4학년 |
