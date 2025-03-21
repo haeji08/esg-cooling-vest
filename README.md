@@ -7,7 +7,7 @@
 
 | 박해지 | 오유림 | 김원진 |
 | --- | --- | --- |
-| <p align="center"><img src="https://i.postimg.cc/NFWsq98V/image.jpg" width="100" height="100"/></p>| <p align="center"><img src="https://i.postimg.cc/7hVWypy2/download.png" width="75" height="100"/></p> | <p align="center"><img src="https://i.postimg.cc/7hVWypy2/download.png" width="75" height="100"/></p> |
+| <p align="center"><img src="https://i.postimg.cc/NFWsq98V/image.jpg" width="150" height="150"/></p>| <p align="center"><img src="https://i.postimg.cc/7hVWypy2/download.png" width="125" height="180"/></p> | <p align="center"><img src="https://i.postimg.cc/7hVWypy2/download.png" width="125" height="180"/></p> |
 | 숙명여자대학교 컴퓨터과학과 4학년 | 중앙대학교 기계공학과 4학년 | 중앙대학교 기계공학과 4학년 |
 
 ## Background
@@ -28,5 +28,5 @@ Our vest regulates body temperature by vaporizing liquid nitrogen through Joule 
 - Application Development and System Control
 - Implemented communication between the application and RaspberryPi using MQTT.
 
-<img src="https://i.postimg.cc/L4J58fCG/2025-03-21-6-17-12.png" />
-<img src="https://i.postimg.cc/0NCxV5tY/2025-03-21-6-16-23.png" />
+<img src="https://i.postimg.cc/L4J58fCG/2025-03-21-6-17-12.png" width="500" height="240"/>
+<img src="https://i.postimg.cc/0NCxV5tY/2025-03-21-6-16-23.png" width="500" height="210"/>
