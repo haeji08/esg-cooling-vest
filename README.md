@@ -7,7 +7,7 @@
 
 | 박해지 | 오유림 | 김원진 |
 | --- | --- | --- |
-| <p align="center"><img src="https://i.postimg.cc/NFWsq98V/image.jpg" width="150" height="150"/></p>| <p align="center"><img src="https://i.postimg.cc/7hVWypy2/download.png" width="125" height="180"/></p> | <p align="center"><img src="https://i.postimg.cc/7hVWypy2/download.png" width="125" height="180"/></p> |
+| <p align="center"><img src="https://i.postimg.cc/NFWsq98V/image.jpg" width="150" height="150"/></p>| <p align="center"><img src="https://i.postimg.cc/7hVWypy2/download.png" width="120" height="165"/></p> | <p align="center"><img src="https://i.postimg.cc/7hVWypy2/download.png" width="120" height="165"/></p> |
 | 숙명여자대학교 컴퓨터과학과 4학년 | 중앙대학교 기계공학과 4학년 | 중앙대학교 기계공학과 4학년 |
 
 ## Background
